@@ -154,8 +154,8 @@ body{
     position: absolute;
     margin-left: 35.5%;
     margin-top: 11%;
-    width: 173px;
-    height: 0px;
+    width: 20%;
+    height: 0%;
     border: 7px solid rgba(0, 0, 0, 0.64);
     z-index: -1;
 }
@@ -164,8 +164,8 @@ body{
     position: absolute;
     margin-left: 31.5%;
     margin-top:18.5%;
-    width:126px;
-    height: 0px;
+    width:10%;
+    height: 0%;
     border: 7px solid rgba(0, 0, 0, 0.64);
     transform: rotate(50.58deg);
     z-index: -1;
@@ -175,8 +175,8 @@ body{
     position: absolute;
     margin-top:17.5%;
     margin-left: 43%;
-    width:126px;
-    height: 0px;
+    width:10%;
+    height: 0%;
     border: 7px solid rgba(0, 0, 0, 0.64);
     transform: rotate(124deg);
     z-index: -1;
