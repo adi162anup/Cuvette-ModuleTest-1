@@ -1,0 +1,150 @@
+body{
+    background-color: #89C15E;
+}
+
+#parent{
+    position: relative;
+    top:0;
+    left:0;
+}
+
+#starsimg{
+    position: relative;
+    top:20px;
+    left:355px;
+}
+
+#trophyimg{
+    position: absolute;
+    top:130px;
+    left:508px;
+}
+
+#message{
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 2%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+#hurray{
+    font-size: 60px;
+    letter-spacing: 0.2em;
+}
+
+#won{
+    position: relative;
+    margin-top: -50px;
+    margin-left: 15px;
+    font-size: 30px;
+    word-spacing: 0.2em;
+}
+
+#play{
+    position: relative;
+    margin-left: 80px;
+    width: 174px;
+    height: 44px;
+    background: #FFFFFF;
+    border-radius: 9px;
+    border-color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #6B6B6B;
+    cursor: pointer;
+}
+
+.rules-wrapper {
+    box-sizing: border-box;
+    width: 278px;
+    height: 325px;
+    background: ghostwhite;
+    position: absolute;
+    top: 63%;
+    left: 86%;
+    transform: translate(-50%, -50%);
+    background: #004429;
+    border: 7px solid #FFFFFF;
+    border-radius: 13px;
+}
+  
+
+.rules {
+    position: absolute;
+    margin-top:20%;
+    margin-left: 90%;
+    border: 2px solid #FFFFFF;
+    background-color: #89C15E;
+    color: #FFFFFF;
+    padding: 5px 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.close-rules {
+    margin-left: 92%;
+    margin-top: -100px;
+    background: #FF0000;
+    border: 5px solid #FFFFFF;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-family: 'Dangrek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+  
+.rules-content {
+    position: relative;
+    margin-left: 5px auto;
+    margin-top: -10px;
+    max-width: 250px;
+    width: 100%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.rules-content li{
+    list-style-type: square;
+    color: #FFD600;
+}
+
+.rules-content li::marker{
+    font-size: 2em;
+}
+
+.rules-content li span{
+    color: #FFFFFF;
+}
+  
+.hide {
+    display: none;
+}
+  
+h1 {
+    position: relative;
+    text-align: center;
+    margin-top: 0%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    color: #FFFFFF;
+}
