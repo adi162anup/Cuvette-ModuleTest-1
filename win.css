@@ -10,14 +10,14 @@ body{
 
 #starsimg{
     position: relative;
-    top:20px;
-    left:355px;
+    top:125%;
+    left:28%;
 }
 
 #trophyimg{
     position: absolute;
-    top:130px;
-    left:508px;
+    top:43%;
+    left:40%;
 }
 
 #message{
