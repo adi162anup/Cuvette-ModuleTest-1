@@ -23,7 +23,7 @@ body{
 #message{
     position: absolute;
     margin-left: 35%;
-    margin-top: 2%;
+    margin-top: 1%;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 600;
@@ -77,7 +77,7 @@ body{
 
 .rules {
     position: absolute;
-    margin-top:20%;
+    margin-top:18%;
     margin-left: 90%;
     border: 2px solid #FFFFFF;
     background-color: #89C15E;

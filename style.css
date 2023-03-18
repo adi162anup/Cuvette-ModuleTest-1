@@ -265,7 +265,7 @@ body{
 
 #next{
     position: absolute;
-    margin-top:30.5%;
+    margin-top:28%;
     margin-left: 92%;
     display: none;
     border: 2px solid #FFFFFF;
@@ -283,7 +283,7 @@ body{
 
 #reset{
     position: absolute;
-    margin-top:30.5%;
+    margin-top:28%;
     margin-left: 80%;
     border: 2px solid #FFFFFF;
     background-color: #89C15E;
@@ -397,7 +397,7 @@ body{
 
 .rules {
     position: absolute;
-    margin-top:30.5%;
+    margin-top:28%;
     margin-left: 90%;
     border: 2px solid #FFFFFF;
     background-color: #89C15E;
